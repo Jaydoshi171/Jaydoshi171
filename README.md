@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Jay Doshi:
+# 💫 Hi! I'm Jay Doshi
 🎓 I'm currently pursuing an MS in Computer Software Engineering at Northeastern University<br>💻  3+ years of Software Engineering experience, specializing in building robust and scalable solutions<br>💭 Cloud enthusiast and a full-stack developer, passionate about leveraging latest technologies to create innovative solutions<br>📩 Reach out to me at jaydoshi171@gmail.com
 
 
